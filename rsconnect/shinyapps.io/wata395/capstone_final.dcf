@@ -1,0 +1,11 @@
+name: capstone_final
+title: Capstone Final
+account: wata395
+server: shinyapps.io
+appId: 210501
+bundleId: 966149
+url: https://wata395.shinyapps.io/capstone_final/
+when: 1504498344.58112
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: FinalCapstone.md|FinalCapstone.Rpres|README.md
